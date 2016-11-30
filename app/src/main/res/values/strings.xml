@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Reto_10F</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="departamentos_colombia">
+        <item name="boyaca">BOYACA</item>
+        <item name="meta">META</item>
+        <item name="antioquia">ANTIOQUIA</item>
+        <item name="santander">SANTANDER</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="r1998">1998</string>
+    <string name="r2006">2006</string>
+    <string name="r2016">2016</string>
+</resources>
